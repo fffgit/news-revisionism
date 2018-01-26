@@ -1,0 +1,4 @@
+feeds:
+- name: "Pol\xEDtica - elPeri\xF3dico.com"
+  url: http://www.elperiodico.com/es/rss/galleries/politica/rss.xml
+phantomjs: phantomjs
